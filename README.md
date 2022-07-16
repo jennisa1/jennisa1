@@ -1,12 +1,26 @@
-### Hi there, my name is Jennifer! 👋
-<h2>English Literature undergraduate with one year of administrative and teaching experience as an Office Administrator and Math Tutor at Anne Arundel Community College. Proficient in Microsoft Office, Google Drive apps, teleconferencing, lesson planning, and project management skills. Strong understanding of organizational objectives, workplace collaboration, customer service, and effective communication to achieve organizational goals. 
-![image](https://user-images.githubusercontent.com/109435986/179369036-0750847d-6ed0-418e-9879-b82d3bc82200.png)</h2>
+<h1 align="center">Hi 👋, I'm Jennifer Saccone!</h1>
+<h3 align="center">Aspiring Industrial Designer</h3>
 
-- 🔭 I’m currently working on [freeCodeCamp Projects](#)
-- 🌱 I’m currently learning web development, project management, TESOL, and novel writing.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jennisa1&label=Profile%20views&color=0e75b6&style=flat" alt="jennisa1" /> </p>
+
+- 🔭 I’m currently working on **[freeCodeCamp Projects]]**
+
+- 🌱 I’m currently learning **web development, project management,and TESOL**
+
+- 📫 How to reach me **jennisa1@umbc.edu**
+
+- ⚡ Fun fact **I am the Founder and Head Choreographer of HE1R Kpop Dance Team**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jennifer-saccone-2b22611b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jennifer-saccone-2b22611b6" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jennifer-saccone-2b22611b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jennifer-saccone-2b22611b6" height="30" width="40" /></a>
 </p>
-- ⚡ Fun fact: I am the Founder and Head Choreographer of HE1R KPOP Dance Team. 
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jennisa1&show_icons=true&locale=en&layout=compact" alt="jennisa1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jennisa1&show_icons=true&locale=en" alt="jennisa1" /></p>
+
 
