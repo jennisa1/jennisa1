@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jennisa1&label=Profile%20views&color=0e75b6&style=flat" alt="jennisa1" /> </p>
 
-- 🔭 I’m currently working on <a href="https://github.com/jennisa1/freeCodeCamp-Projects" target="blank"/></a>
+- 🔭 I’m currently working on <a href="https://github.com/jennisa1/freeCodeCamp-Projects" onclick="window.open('https://github.com/jennisa1/freeCodeCamp-Projects', '_self'); target="blank"/>freeCodeCamp Projects</a>
 
 - 🌱 I’m currently learning **web development, project management, and TESOL**
 
