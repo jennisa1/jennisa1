@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jennisa1&label=Profile%20views&color=0e75b6&style=flat" alt="jennisa1" /> </p>
 
-- 🔭 I’m currently working on **[freeCodeCamp Projects]]**
+- 🔭 I’m currently working on **[freeCodeCamp Projects]**
 
-- 🌱 I’m currently learning **web development, project management,and TESOL**
+- 🌱 I’m currently learning **web development, project management, and TESOL**
 
 - 📫 How to reach me **jennisa1@umbc.edu**
 
