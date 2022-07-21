@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [freeCodeCamp Projects](https://github.com/jennisa1/freeCodeCamp-Projects)
 
-- 🌱 I’m currently learning **web development, project management, and TESOL**
+- 🌱 I’m currently learning **web development, project management, and creative writing**
 
 - 📫 How to reach me **jennisa1@umbc.edu**
 
