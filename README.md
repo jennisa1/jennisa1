@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jennisa1@umbc.edu**
 
-- 👨‍💻 All of my projects are available at (https://github.com/jennisa1)
+- 👨‍💻 All of my projects are available at https://github.com/jennisa1
 
 - ⚡ Fun fact **I am the Founder and Head Choreographer of HE1R Kpop Dance Team**
 
