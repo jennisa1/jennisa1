@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **web development, project management, and creative writing**
 
-- 📫 How to reach me **jennisa1@umbc.edu**
+- 📫 How to reach me **https://www.linkedin.com/in/jennifer-saccone-2b22611b6**
 
 - 👩‍💻 All of my projects are available at https://github.com/jennisa1
 
