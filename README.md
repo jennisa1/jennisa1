@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jennisa1&label=Profile%20views&color=0e75b6&style=flat" alt="jennisa1" /> </p>
 
-- 🔭 I’m currently working on [freeCodeCamp Projects](https://github.com/jennisa1/freeCodeCamp-Projects)
+- 🔭 I’m currently working on [freeCodeCamp Projects](https://github.com/jennisa1/freeCodeCamp-Projects), [first-contributions](https://github.com/jennisa1/first-contributions)
 
 - 🌱 I’m currently learning **web development, project management, and creative writing**
 
