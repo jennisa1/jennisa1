@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jennisa1&label=Profile%20views&color=0e75b6&style=flat" alt="jennisa1" /> </p>
 
-- 🔭 I’m currently working on [freeCodeCamp Projects](https://github.com/jennisa1/freeCodeCamp-Projects) and <p><a href="https://codepen.io/jennisa1/pen/oNqOxKP">NotFancy Website</a></p>
+- 🔭 I’m currently working on [freeCodeCamp Projects](https://github.com/jennisa1/freeCodeCamp-Projects) and <a href="https://codepen.io/jennisa1/pen/oNqOxKP">NotFancy Website</a>
 
 - 🤝 I contributed to an open source project: [first-contributions](https://github.com/jennisa1/first-contributions)
 
